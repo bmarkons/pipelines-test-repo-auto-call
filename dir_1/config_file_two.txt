@@ -1,0 +1,2 @@
+First line of config file two.
+Second line of same file.
